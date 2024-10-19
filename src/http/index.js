@@ -126,7 +126,7 @@ class ServerHttp {
 
         this.app.listen(this.port, () => {
             console.log(``)
-            console.log(`🦮 http://localhost:${this.port}/scan-qr`)
+            console.log(`http://localhost:${this.port}/scan-qr`)
             console.log(``)
         })
     }

@@ -2,25 +2,26 @@
   key: {
     remoteJid: '5215580568575@s.whatsapp.net',
     fromMe: false,
-    id: '3EB0ACC3D9CE4010CDC51B',
+    id: '3EB089E4DDE28F314F15FE',
     participant: undefined
   },
-  messageTimestamp: 1720719550,
+  messageTimestamp: 1729371994,
   pushName: 'Benito Castro',
   broadcast: false,
   message: Message {
     imageMessage: ImageMessage {
       interactiveAnnotations: [],
       scanLengths: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-8944e4b3-f618-4247-8eb5-dbb5042bf4f0?ccb=9-4&oh=01_Q5AaILyyF4_rM4BhybjHfomBwCZK-mGBjnaglcrEGckyGzEP&oe=66B796FB&_nc_sid=000000&mms3=true',
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-6c59da2e-28ec-4ed8-8c2b-18aecfbc1a7c?ccb=9-4&oh=01_Q5AaIAvlDNn8Cn1caNcm-vr2zdxtwwFGkg2IQk7TG9qu7kw2&oe=673B8F41&_nc_sid=e6ed6c&mms3=true',
       mimetype: 'image/jpeg',
+      caption: 'Listo Sammy',
       fileSha256: [Uint8Array],
       fileLength: [Long],
-      height: 630,
-      width: 1200,
+      height: 1280,
+      width: 857,
       mediaKey: [Uint8Array],
       fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m232/up-oil-image-8944e4b3-f618-4247-8eb5-dbb5042bf4f0?ccb=9-4&oh=01_Q5AaILyyF4_rM4BhybjHfomBwCZK-mGBjnaglcrEGckyGzEP&oe=66B796FB&_nc_sid=000000',
+      directPath: '/o1/v/t62.7118-24/f1/m232/up-oil-image-6c59da2e-28ec-4ed8-8c2b-18aecfbc1a7c?ccb=9-4&oh=01_Q5AaIAvlDNn8Cn1caNcm-vr2zdxtwwFGkg2IQk7TG9qu7kw2&oe=673B8F41&_nc_sid=e6ed6c',
       mediaKeyTimestamp: [Long],
       jpegThumbnail: [Uint8Array],
       contextInfo: [ContextInfo],
@@ -28,104 +29,11 @@
     },
     messageContextInfo: MessageContextInfo {
       deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
     }
   },
   verifiedBizName: 'Benito Castro',
-  body: '_event_media__67a7576e-de61-4b31-b597-3b2ad5b5c13b',
-  from: '5215580568575'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5215580568575@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB0018A2ADB03D54FAC5D',
-    participant: undefined
-  },
-  messageTimestamp: 1720719569,
-  pushName: 'Benito Castro',
-  broadcast: false,
-  message: Message {
-    conversation: 'Hola',
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Benito Castro',
-  body: 'Hola',
-  from: '5215580568575'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_1bc76ac1-09b9-4712-a51c-eb412722306b',
-  keyword: 'key_addbcf7d-1d31-4f17-aab2-ae4ec8483c1a',
-  answer: 'Buenas bienvenido a mi ecommerce',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'bd950f25120c3da500363cef9ddbc04b'
-}
-[QUEUE_SE_ENVIO]:  {
-  ref: 'ans_27926b79-2c9d-41a5-bea1-6e0993fd16dc',
-  keyword: 'ans_1bc76ac1-09b9-4712-a51c-eb412722306b',
-  answer: '¿Como puedo ayudarte el dia de hoy?',
-  options: {
-    media: null,
-    buttons: [],
-    capture: false,
-    child: null,
-    delay: 0,
-    idle: null,
-    ref: null,
-    nested: [],
-    keyword: {},
-    callback: false
-  },
-  refSerialize: 'af1edd1c27d7e69e3f47c0fc939638a4'
-}
-[handleMsg]:  {
-  key: {
-    remoteJid: '5215580568575@s.whatsapp.net',
-    fromMe: false,
-    id: '3EB02CB2A3434EB46CA2D3',
-    participant: undefined
-  },
-  messageTimestamp: 1720719586,
-  pushName: 'Benito Castro',
-  broadcast: false,
-  message: Message {
-    imageMessage: ImageMessage {
-      interactiveAnnotations: [],
-      scanLengths: [],
-      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-8944e4b3-f618-4247-8eb5-dbb5042bf4f0?ccb=9-4&oh=01_Q5AaILyyF4_rM4BhybjHfomBwCZK-mGBjnaglcrEGckyGzEP&oe=66B796FB&_nc_sid=000000&mms3=true',
-      mimetype: 'image/jpeg',
-      fileSha256: [Uint8Array],
-      fileLength: [Long],
-      height: 630,
-      width: 1200,
-      mediaKey: [Uint8Array],
-      fileEncSha256: [Uint8Array],
-      directPath: '/o1/v/t62.7118-24/f1/m232/up-oil-image-8944e4b3-f618-4247-8eb5-dbb5042bf4f0?ccb=9-4&oh=01_Q5AaILyyF4_rM4BhybjHfomBwCZK-mGBjnaglcrEGckyGzEP&oe=66B796FB&_nc_sid=000000',
-      mediaKeyTimestamp: [Long],
-      jpegThumbnail: [Uint8Array],
-      contextInfo: [ContextInfo],
-      viewOnce: false
-    },
-    messageContextInfo: MessageContextInfo {
-      deviceListMetadata: [DeviceListMetadata],
-      deviceListMetadataVersion: 2
-    }
-  },
-  verifiedBizName: 'Benito Castro',
-  body: '_event_media__0e7914d1-4259-4fef-8354-43b59135b573',
+  body: '_event_media__7696b013-c1d0-4684-aaaf-48dd0166bcbb',
   from: '5215580568575'
 }

@@ -4,7 +4,7 @@
  * @param {*} chatwoot la dependencia del chatwoot...(create, buscar...)
  */
 const handlerMessage = async (dataIn = {phone:'', name:'', message: '', mode:'', attachment:[]}, chatwoot) => {
-    const inbox = await chatwoot.findOrCreateInbox({ name: 'BOTWS' })
+    const inbox = await chatwoot.findOrCreateInbox({ name: 'WhatsAppBot' })
     const contact = await chatwoot.findOrCreateContact({ from: dataIn.phone, name: dataIn.name})
     const conversation = await chatwoot.findOrCreateConversation({
         inbox_id: inbox.id,
